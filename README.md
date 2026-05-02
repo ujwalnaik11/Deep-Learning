@@ -2,7 +2,7 @@
 This repository will house all codes, data, files related to my work in Deep Learning
 ***
 ### [1. Food Classification](https://github.com/ujwalnaik11/Deep-Learning/blob/master/mobilenet_%2B_Resnet_finetune_food_classification.ipynb)
-(MobileNetV2 and ResNet50) on the Indian food images dataset. By ensembling these models with Test-Time Augmentation (TTA) and weighted prediction, achieved a final test accuracy of 75.16% on a diverse set of Indian food images.
+(MobileNetV2 and ResNet50) on the Indian food images dataset. By ensembling these models with Test-Time Augmentation (TTA) and weighted prediction, achieved a final test accuracy of 75.16% on a diverse set of Indian food images (80 classes).
 
 ***
 ### [2. Neural Style Transfer](https://github.com/ujwalnaik11/Deep-Learning/tree/master/Neural%20style%20transfer)
