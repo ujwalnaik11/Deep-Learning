@@ -22,7 +22,7 @@ Collaborative filtering is a method of making predictions about the interests of
 * Collaborative Filtering using FastAI
 
 ***
-### [3. Food Classification](https://github.com/ujwalnaik11/Deep-Learning/blob/master/Collaberative_filtering.ipynb)
+### [3. Food Classification](https://github.com/ujwalnaik11/Deep-Learning/blob/master/mobilenet_%2B_Resnet_finetune_food_classification.ipynb)
 (MobileNetV2 and ResNet50) on the Indian food images dataset. By ensembling these models with Test-Time Augmentation (TTA) and weighted prediction, we achieved a final test accuracy of 75.16% on a diverse set of Indian food images.
 
 ***
